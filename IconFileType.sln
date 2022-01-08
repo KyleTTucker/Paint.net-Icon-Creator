@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconCreater", "IconCreater.csproj", "{E2472C8B-C8AE-4D12-B777-53CDC1DD0371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IconCreator", "IconCreator.csproj", "{E2472C8B-C8AE-4D12-B777-53CDC1DD0371}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
