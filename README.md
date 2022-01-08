@@ -1,7 +1,5 @@
 # Paint.net-Icon-Creator
-[Paint.NET](http://www.getpaint.net) Icon file type to importing and exporting
-
-Plugin allows Paint.NET to load and save Icons .ico
+[Paint.NET](http://www.getpaint.net) Plugin allows Paint.NET to load and save icon file type *.ico
 
 ## Installing 
 Place IconCreater.dll in your FileTypes folder
