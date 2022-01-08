@@ -10,4 +10,4 @@ Place IconCreater.dll in your FileTypes folder
   Microsoft Store | Documents\paint.net App Files\FileTypes
 
 ## Licensed
-  GNU 3.0v Kyle Tucker
+  Kyle Tucker © GNU 3.0 2022
