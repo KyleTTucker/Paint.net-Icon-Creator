@@ -8,3 +8,6 @@ Place IconCreater.dll in your FileTypes folder
   
   Classic | C:\Program Files\Paint.NET\FileTypes    
   Microsoft Store | Documents\paint.net App Files\FileTypes
+
+## Licensed
+  GNU 3.0v Kyle Tucker
